@@ -14,4 +14,4 @@ a little more friendly.
   sandbox, so the cleans (`make repoclean`, `make totalclean`) can't eat
   them.
 
-**NOTE:** This is still a work in progress. I am further along with  at the corresponding sibling project **buildroot-wrapper**
+**NOTE:** This is still a work in progress. I am further along at the corresponding sibling project: [buildroot-wrapper](https://github.com/MauriceSmulders/buildroot-wrapper)
